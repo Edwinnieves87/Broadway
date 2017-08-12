@@ -1,3 +1,29 @@
-*{
-  text-align: center; horizontal;
+* {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+h1{
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+
+}
+
+#menu, a{
+  font-size:18px;
+  color: white;
+
+}
+
+.top {
+  background-image: url(/Users/Joey/Documents/GitHub/Broadway/resources/css/the-flatiron-building.png);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#process {
+  font-size: 32px
+  font-weight:bold;
+
 }
