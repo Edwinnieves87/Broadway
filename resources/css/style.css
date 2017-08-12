@@ -22,8 +22,10 @@ h1{
 
 .top {
   background-image: url(/Users/Joey/Documents/GitHub/Broadway/resources/css/the-flatiron-building.png);
-  background-position: center;
   background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
 }
 
 #process {
@@ -62,4 +64,8 @@ h3{
 .bottom {
   background-color: dimgray;
   text-align: left;
+}
+
+#broadway{
+  font-size: 11px;
 }
